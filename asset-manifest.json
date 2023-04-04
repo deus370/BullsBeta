@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BullsBeta/static/css/main.1e01464d.chunk.css",
+    "main.js": "/BullsBeta/static/js/main.00052e1f.chunk.js",
+    "main.js.map": "/BullsBeta/static/js/main.00052e1f.chunk.js.map",
+    "runtime-main.js": "/BullsBeta/static/js/runtime-main.fcfe9d76.js",
+    "runtime-main.js.map": "/BullsBeta/static/js/runtime-main.fcfe9d76.js.map",
+    "static/js/2.67482287.chunk.js": "/BullsBeta/static/js/2.67482287.chunk.js",
+    "static/js/2.67482287.chunk.js.map": "/BullsBeta/static/js/2.67482287.chunk.js.map",
+    "static/js/3.b4e67d30.chunk.js": "/BullsBeta/static/js/3.b4e67d30.chunk.js",
+    "static/js/3.b4e67d30.chunk.js.map": "/BullsBeta/static/js/3.b4e67d30.chunk.js.map",
+    "index.html": "/BullsBeta/index.html",
+    "static/css/main.1e01464d.chunk.css.map": "/BullsBeta/static/css/main.1e01464d.chunk.css.map",
+    "static/js/2.67482287.chunk.js.LICENSE.txt": "/BullsBeta/static/js/2.67482287.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/BullsBeta/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfe9d76.js",
+    "static/js/2.67482287.chunk.js",
+    "static/css/main.1e01464d.chunk.css",
+    "static/js/main.00052e1f.chunk.js"
+  ]
+}

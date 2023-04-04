@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x81E63854B69B328D79647c1F5122B5DEb1668063",
+  "SCAN_LINK": "https://polygonscan.com/address/0x81e63854b69b328d79647c1f5122b5deb1668063",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MiningBullsBeta",
+  "SYMBOL": "MBCB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 109000000000000000000,
+  "DISPLAY_COST": 109,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/miningbullsbeta",
+  "SHOW_BACKGROUND": false
+}
